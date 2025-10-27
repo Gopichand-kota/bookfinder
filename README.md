@@ -17,4 +17,6 @@ BookFinder is a simple web application that helps users search for books and vie
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bookfinder.git
+  git clone https://github.com/Gopichand-kota/bookfinder.git
+
+
